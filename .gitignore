@@ -1,5 +1,16 @@
 # Compiled class file
 *.class
+.gradle
+.idea
+gradle
+build
+
+.gitattributes
+
+gradlew
+gradlew.bat
+spring5-mongo-recipe-app.iml
+.DS_Store
 
 # Log file
 *.log
