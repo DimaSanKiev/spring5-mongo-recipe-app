@@ -8,8 +8,8 @@ out
 
 .gitattributes
 
-gradlew
-gradlew.bat
+#gradlew
+#gradlew.bat
 spring5-mongo-recipe-app.iml
 .DS_Store
 
