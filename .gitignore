@@ -2,7 +2,7 @@
 *.class
 .gradle
 .idea
-gradle
+#gradle
 build
 out
 
